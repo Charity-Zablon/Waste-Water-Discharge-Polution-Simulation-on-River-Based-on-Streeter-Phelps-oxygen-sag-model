@@ -1,4 +1,4 @@
-# River Water Quality Simulation
+# Simulation of the Effect of Pollution Discharge on River Water Quality 
 
 An interactive Streamlit app that simulates how a pollution discharge affects river water quality, using the Streeter-Phelps oxygen sag model.
 
