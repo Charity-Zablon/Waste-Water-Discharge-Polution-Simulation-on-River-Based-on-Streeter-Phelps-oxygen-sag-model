@@ -2,7 +2,7 @@
 
 An interactive Streamlit app that simulates how a pollution discharge affects river water quality, using the Streeter-Phelps oxygen sag model.
 
-**Live demo:** 
+**Live demo:** https://t4cttpktwec3sbg5xg8gj2.streamlit.app/
 
 
 ![Screenshot of the app](screenshot.png)
