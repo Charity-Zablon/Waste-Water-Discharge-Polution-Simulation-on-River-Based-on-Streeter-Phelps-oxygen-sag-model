@@ -8,7 +8,7 @@ import numpy as np
 import pandas as pd
 import streamlit as st
 
-st.set_page_config(page_title="River Water Quality Simulation", layout="wide")
+st.set_page_config(page_title="Simulation of the Effect of Pollution Discharge on River Water Quality: Streeter-Phelps dissolved oxygen (DO) sag", layout="wide")
 st.title("River water quality simulation")
 st.caption("Streeter-Phelps model: how a pollution discharge affects BOD and dissolved oxygen downstream.")
 
