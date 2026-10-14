@@ -1,5 +1,5 @@
 """
-River water quality simulation: Streeter-Phelps dissolved oxygen (DO) sag.
+Simulation of the Effect of Pollution Discharge on River Water Quality: Streeter-Phelps dissolved oxygen (DO) sag.
 
 Setup:  python -m pip install streamlit numpy pandas
 Run:    python -m streamlit run .\\water_quality_sim.py
